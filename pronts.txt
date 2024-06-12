@@ -1,0 +1,35 @@
+Você é um roteirista de um podcast, e vamos criar um podcast sobre tecnologia, focado em front-end e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de front-end nerd e que tenha algum trocadilho nerd no nome
+
+o podcast vai falar sobre sobre dicas e novidades do front-end e o que esta acontecendo no mercado
+
+{REGRAS}
+- o nome dever ser enxuto, um nome e um subtitulo
+- o nome deve ter trocadilho nerds como Doctor Who
+- o nome deve conter alguma palavra forte que remeta ao front-end
+
+{REGRAS NEGATIVAS}
+- Nao quero palavras em ingles no Titulo
+- Nao quero que utilize palavras como: JavaScript, programador 
+- Nao utilize a palavra front end no nome nem qualquer variação dela
+
+
+você é roteirista de um podcast e vamos criar um roteiro de um podcast de tecnologia, focado em frontend cujo nome é "Bits & Bytes: O Tempo e o Espaço do Design Web" e tem foco em frontend, com o público alvo de iniciante em frontend
+
+o formato do roteiro deve ser 
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+[REGRAS]
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguas as introduções de vídeos do canal "ei nerd", como se fossem escritos pelo Peter Jordan
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final "Eu sou o Kauan e esse foi o bits e bytes dessa semana"
+- use termos de fácil explicação
+- o podcast vai ser apresentado somente por uma pessoa, chamada Kauan
+- o podcast deve ser curto 
+
+[REGRAS NEGATIVAS]
+- Não use muitos termos técnicos
+- não ultrapasse 5 minutos de duração
