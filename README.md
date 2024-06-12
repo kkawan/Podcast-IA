@@ -5,6 +5,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
+Poden conferir o Podcast Bits & Bytes neste link (https://www.notion.so/PAS-Podcast-AI-Studio-de32ea4b2acc4d28b9c6d7c76be0c9ac)
 
 
 ## 💻 Tecnologias utilizadas no projeto
